@@ -45,7 +45,7 @@ Ensure that you provide the appropriate ZooKeeper ensemble connection string, co
 
 Observe the console output to see the leader election process. You will see messages indicating which node has been elected as the leader and any re-elections that occur.
 Testing and Failure Handling
-<p align="left"><img src="screenshot.png" alt="Image Description" width="45%"></p>
+
 
 
 ## To test the failure handling and re-election process, follow these steps:
